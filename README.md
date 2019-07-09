@@ -2,7 +2,7 @@
 # viavarejo
 Teste Via Varejo
 
-Para realizar o teste da API enviada, realizar os seguintes procedimentos:
+Para realizar o teste da API enviada, realizar os seguintes procedimentos: <br />
 
 1 - Abrir o programa (Essa API foi realizada via Eclipse)
 2 - Rodar a aplicação da classe Application.java (Para rodar a aplicação com o Spring boot)
