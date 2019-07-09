@@ -17,6 +17,6 @@ Para realizar o teste da API enviada, realizar os seguintes procedimentos: <br /
 
 }
 
-e apertar o "SEND"<br />
+ Após isso, colocar o código do produto, nome do produto, o valor do produto, o valor de entrada e a quantidade de parcelas que desejar e apertar o "SEND"<br />
 
 6- Após isso, será vizualizado o número de parcela indicado, o valor de cada parcela e a taxa de juros ao mês (O juros será aplicado somente quando o número de parcelas for superior a 06 (seis) parcelas)
